@@ -2,8 +2,8 @@
 //  User.swift
 //  Twitter
 //
-//  Created by Yousef Kazerooni on 2/11/16.
-//  Copyright © 2016 Yousef Kazerooni. All rights reserved.
+//  Created by Gaurang Bhatt on 2/11/16.
+//  Copyright © 2016 Gaurang Bhatt. All rights reserved.
 //
 
 import UIKit

@@ -2,16 +2,16 @@
 //  TwitterClient.swift
 //  Twitter
 //
-//  Created by Yousef Kazerooni on 2/8/16.
-//  Copyright © 2016 Yousef Kazerooni. All rights reserved.
+//  Created by Gaurang Bhatt on 2/8/16.
+//  Copyright © 2016 Gaurang Bhatt. All rights reserved.
 //
 
 import UIKit
 import BDBOAuth1Manager
     
     let twitterBaseUrl = NSURL(string: "https://api.twitter.com")
-    let twitterConsumerKey = "cX6MwQ1Wl8dTmPgkcvPBQM80B"
-    let twitterConsumerSecret = "0LQmfesV3RoynCCJbg9u2Y0NVtgpzCAPx9NDTElsRAPoMIKyRX"
+    let twitterConsumerKey = "" //KEY HERE!
+    let twitterConsumerSecret = "" // SECRET HERE!
     
     class TwitterClient: BDBOAuth1SessionManager {
         
